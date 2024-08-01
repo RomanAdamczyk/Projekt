@@ -1,2 +1,3 @@
 plik do ćwiczeń z git
 linijka testowa
+jeszcze jedna
